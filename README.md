@@ -12,13 +12,9 @@ The dataset contains information about pizza orders including:
 
 
 # Tools Used
-•	MySQL 
+•	MySQL: Project can run on any relational database management system.
 
-Project can run on any relational database management system.
-
-•	MySQL Workbench
-
-For writing and executing SQL queries.
+•	MySQL Workbench: For writing and executing SQL queries.
 
 
  # Key Business Questions & Answers
