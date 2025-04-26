@@ -50,6 +50,31 @@ The dataset contains information about pizza orders including:
 
  # 13. <img width="541" alt="Que13" src="https://github.com/user-attachments/assets/826c4a0d-71df-448d-ae0c-11f2e60f8d74" />  <img width="188" alt="Ans13" src="https://github.com/user-attachments/assets/82b13ddb-d801-4778-8bd0-934e30564707" />
 
+# Project Process
+This project followed a structured approach to analyze pizza sales data using SQL:
+
+1.	Understanding the Dataset
+
+o	Reviewed the structure of the pizza_sales table including fields like order_id, order_date, pizza_name, pizza_size, pizza_category, quantity, total_price.
+
+2.	Defining Business Questions
+
+o	Identified the key performance indicators (KPIs) such as total revenue, total orders, average order value, and best-selling products.
+
+3.	Writing SQL Queries
+
+o	Developed and executed SQL queries to answer the business questions.
+
+o	Applied various SQL functions like SUM(), COUNT(), AVG(), DATENAME(), GROUP BY, ORDER BY, and subqueries.
+
+4.	Analyzing Results
+
+o	Interpreted the query outputs to understand daily, monthly trends, category-wise sales, size-wise sales, and product performance.
+
+5.	Insights and Recommendations
+
+o	Summarized key insights that could help the business improve marketing strategies, stock management, and menu optimization.
+
  
                                      
 
