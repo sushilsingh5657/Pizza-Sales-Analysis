@@ -10,6 +10,15 @@ The dataset contains information about pizza orders including:
 
 •	Quantity and price
 
+
+# Tools Used
+•	MySQL 
+Project can run on any relational database management system.
+
+•	MySQL Workbench
+For writing and executing SQL queries.
+
+
  # Key Business Questions & Answers
  
 # 1. <img width="289" alt="Que1" src="https://github.com/user-attachments/assets/5e495df8-a09a-4489-a6cf-39337dfae573" />  <img width="83" alt="Ans1" src="https://github.com/user-attachments/assets/e9c1beaf-5887-4c0f-bde4-d83dfdaf40b6" />
