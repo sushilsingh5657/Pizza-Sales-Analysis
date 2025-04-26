@@ -12,12 +12,10 @@ The dataset contains information about pizza orders including:
 
  # Key Business Questions & Answers
  
-# 1 <img width="289" alt="Que1" src="https://github.com/user-attachments/assets/5e495df8-a09a-4489-a6cf-39337dfae573" />
-  <img width="83" alt="Ans1" src="https://github.com/user-attachments/assets/e9c1beaf-5887-4c0f-bde4-d83dfdaf40b6" />
+# 1 <img width="289" alt="Que1" src="https://github.com/user-attachments/assets/5e495df8-a09a-4489-a6cf-39337dfae573" /><img width="83" alt="Ans1" src="https://github.com/user-attachments/assets/e9c1beaf-5887-4c0f-bde4-d83dfdaf40b6" />
   
 
- # 2 <img width="362" alt="Que2" src="https://github.com/user-attachments/assets/e5dc636a-62b6-42ae-b28b-b4933c90ffe6" />
-  <img width="81" alt="Ans2" src="https://github.com/user-attachments/assets/49279809-da4c-49d6-8ccc-b1a407069ea0" />
+ # 2 <img width="362" alt="Que2" src="https://github.com/user-attachments/assets/e5dc636a-62b6-42ae-b28b-b4933c90ffe6" / ><img width="81" alt="Ans2" src="https://github.com/user-attachments/assets/49279809-da4c-49d6-8ccc-b1a407069ea0" />
   
 
  # 3 <img width="287" alt="Que3" src="https://github.com/user-attachments/assets/8d51e655-2199-4536-82fe-e623e2164163" />
