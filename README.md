@@ -12,9 +12,9 @@ The dataset contains information about pizza orders including:
 
 
 # Tools Used
-•	MySQL: Project can run on any relational database management system.
+•	MySQL : Project can run on any relational database management system.
 
-•	MySQL Workbench: For writing and executing SQL queries.
+•	MySQL Workbench : For writing and executing SQL queries.
 
 
  # Key Business Questions & Answers
@@ -81,6 +81,12 @@ This project followed a structured approach to analyze pizza sales data using SQ
 # 5.	Insights and Recommendations
 
 •	Summarized key insights that could help the business improve marketing strategies, stock management, and menu optimization.
+
+# Conclusion
+Through this project, I successfully leveraged SQL to analyze pizza sales data and extract meaningful business insights.By answering critical questions related to revenue, ordering trends, and product performance, I demonstrated the power of data-driven decision making.
+This project helped reinforce essential SQL skills like aggregation, grouping, filtering, working with dates, and calculating KPIs.It also highlighted the importance of structuring analysis logically — starting from understanding the dataset to answering specific business questions.
+The insights gained from this analysis can help a pizza business optimize its inventory, tailor marketing strategies, improve customer satisfaction, and ultimately drive more sales.
+
 
 
 
